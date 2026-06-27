@@ -2,6 +2,19 @@
 
 A dated record of each session (that I hopefully remember to keep updated).
 
+## 06-26-2026
+
+**Time Spent:** 1 hour
+
+**What happened :D**
+- Began working on the MCU schematic
+
+**What needs to happen D:**
+- finish mcu sheet
+- narrow research question down further
+
+**Fun fact:** The patent for the fire hydrant was destroyed in a fire! (some research past the one reddit comment seems to confirm this which is super interesting!)
+
 ## 06-25-2026
 
 **Time Spent:** 4 hours

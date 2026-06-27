@@ -52,6 +52,52 @@
 		)
 	)
 	(sheet
+		(at 21.59 142.24)
+		(size 86.36 41.91)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "e69a3647-69f6-4f5e-a6d2-9cc7399842e7")
+		(property "Sheetname" "MCU"
+			(at 21.59 141.5284 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "MCU.kicad_sch"
+			(at 21.59 184.7346 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "swarm-kicad"
+				(path "/cf9f5a57-128a-482a-b07a-dc8c6984ab20"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 21.59 22.86)
 		(size 86.36 46.99)
 		(exclude_from_sim no)
